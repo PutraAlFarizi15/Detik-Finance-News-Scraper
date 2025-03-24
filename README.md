@@ -7,7 +7,7 @@ A web scraper for detik.finance.com, allowing users to search and export news ar
 ## Screenshots
 -------------
 
-### DETIK News Scraper
+### Detik Finance News Scraper
 ![](Detik-finance-scraper.png)
 
 ### Search Results
