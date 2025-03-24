@@ -1,5 +1,5 @@
 # Detik Finance News Scraper
-=====================
+---------------
 
 A web scraper for detik.finance.com, allowing users to search and export news articles by total pages.
 
