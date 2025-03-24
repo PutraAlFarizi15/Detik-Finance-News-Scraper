@@ -1,0 +1,4 @@
+httpx==0.28.1
+pandas==2.2.3
+streamlit==1.43.2
+beautifulsoup4==4.13.3
